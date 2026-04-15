@@ -1,8 +1,6 @@
-## Why Hello There, What Brings You to My Account?
 
-![test](./banner.png)
-<h1 align="center">🌿 Quantix</h1>
-<p align="center">Nature • Code • Exploration</p>
+![test](./heading.png)
+
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jade-Panther&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jade-Panther&theme=dracula)
 
@@ -12,49 +10,19 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-
-
-
----
-
 ## 🚧 Currently Working on
 - A discord bot that connects with the iNaturalist API
-- Machine Learning CV
 
----
-
-## 🧭 Next on my TODO
+## Next on my TODO
 - Something with data visualization (who knows what yet)
 - Game template
 - Bird song analyzer?
-
----
 
 ## 🤝 I’m looking to collaborate on...
 - Hmmm...the discord bot?
 - If you have any ideas, pretty much anything interesting!
 
----
-
 ## 📚 Currently Learning and Researching
 - Assembly
 - Logic gate compositions
 - Machine Learning
-
-## 🌱 Passions
-- Nature! Specifically birds but really everything is interesting :)
-- Astronomy
-- Painting and Sketching (Especially Creature Design)
-- Reading. The classic Sci-Fi are some of my favorites
-
----
-
-## 💻 Programming languages
-- Python
-- Javascript
-- HTML
-- CSS
-- SQL
-- (Soon to be) Assembly, React.js, Node.js
