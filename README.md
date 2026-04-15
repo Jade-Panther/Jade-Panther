@@ -1,10 +1,6 @@
 ## Why Hello There, What Brings You to My Account?
 
-<p align="center">
-  <img src="https://images.pexels.com/photos/34737694/pexels-photo-34737694.jpeg"
-       width="100%"
-       height="300" />
-</p>
+![test](./banner.png)
 <h1 align="center">🌿 Quantix</h1>
 <p align="center">Nature • Code • Exploration</p>
 
