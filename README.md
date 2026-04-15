@@ -11,18 +11,19 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🚧 Currently Working on
-- A discord bot that connects with the iNaturalist API
+- A Discord bot that connects with the iNaturalist API
+
+## 🤝 I’m looking to collaborate on...
+The Discord bot, or anything interesting—always open to ideas.
+
+---
 
 ## Next on my TODO
 - Something with data visualization (who knows what yet)
 - Game template
 - Bird song analyzer?
 
-## 🤝 I’m looking to collaborate on...
-- Hmmm...the discord bot?
-- If you have any ideas, pretty much anything interesting!
-
-## 📚 Currently Learning and Researching
+## 🧠 Currently Learning and Researching
 - Assembly
 - Logic gate compositions
 - Machine Learning
