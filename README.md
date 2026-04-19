@@ -26,7 +26,6 @@ Why hello there, what brings you to my account? My name is...
 ## Next on my TODO (maybe)
 - Something with data visualization (who knows what yet)
 - Game template
-- Bird song analyzer
 - Rubix cube Algorithm displayer
 - Real-Time Disaster Alert Map
 - News Bias Analyzer
