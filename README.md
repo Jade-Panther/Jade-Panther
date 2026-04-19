@@ -23,9 +23,11 @@ Why hello there, what brings you to my account? My name is...
 - 🤝 I’m looking to collaborate on...The Discord bot, or anything interesting—always open to ideas.
 - 🧠 Currently Learning and Researching Assembly, Machine Learning, Quantum Computers, and anything else that I come across
 
-## Next on my TODO
+## Next on my TODO (maybe)
 - Something with data visualization (who knows what yet)
 - Game template
-- Bird song analyzer?
-
+- Bird song analyzer
+- Rubix cube Algorithm displayer
+- Real-Time Disaster Alert Map
+- News Bias Analyzer
 
