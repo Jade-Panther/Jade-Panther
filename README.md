@@ -19,12 +19,11 @@ Why hello there, what brings you to my account? My name is...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
-- 🚧 Currently Working on...A Discord bot that connects with the iNaturalist API
+- 🚧 Currently Working on...A Discord bot that connects with the iNaturalist API and a data visualizer for roadkill
 - 🤝 I’m looking to collaborate on...The Discord bot, or anything interesting—always open to ideas.
-- 🧠 Currently Learning and Researching Assembly, Machine Learning, Quantum Computers, and anything else that I come across
+- 🧠 Currently Learning and Researching Assembly, C, Machine Learning, Quantum Computers, and anything else that I come across
 
 ## Next on my TODO (maybe)
-- Something with data visualization (who knows what yet)
 - Game template
 - Rubix cube Algorithm displayer
 - Real-Time Disaster Alert Map
